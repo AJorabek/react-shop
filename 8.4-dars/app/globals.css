@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shop-logo{
+  font-size: 30px;
+}
+.category{
+  width: 100%;
+  max-width: 150px;
+  background-color: gray;
+  border-radius: 20px;
+}
